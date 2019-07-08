@@ -1,0 +1,8 @@
+setup.py
+ijroieh/__init__.py
+ijroieh/ijroieh.py
+ijroieh.egg-info/PKG-INFO
+ijroieh.egg-info/SOURCES.txt
+ijroieh.egg-info/dependency_links.txt
+ijroieh.egg-info/not-zip-safe
+ijroieh.egg-info/top_level.txt
